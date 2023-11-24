@@ -1,14 +1,14 @@
 #  API WHATSAPP EXEMPLO
 
-Este é um exemplo de envio de uma simples mensagem utilizando a api do whatsapp,vou mostrar passo a passo como você pode enviar uma mensagem utilizando a api do whatsapp utilizando a linguagem java
+Este é um exemplo de envio de  mensagem utilizando a api do whatsapp,vou mostrar passo a passo como você pode enviar uma mensagem utilizando a api do whatsapp utilizando a linguagem java
 Exemplo da mensagem que você pode enviar 
 ![Alt text](<Imagem do WhatsApp de 2023-11-24 à(s) 17.59.26_b4d80be4.jpg>)
 
 
 ## Visão Geral  
 
-Este projeto tem como objetivo mostar o desenvolvimento de um projeto de chatbot que estou desenvolvendo para atendimento via whatsapp utilizando a API do whatsapp
-vai ser uma breve apresentação de como está o projeto em que estou desenvolvendo com um simples gerenciador de sistema como fron-end e um exemplo utilizando o chatbot e esse repositório está privado ,porém esse em questão é um exemplo simples para ajudar quem está querendo ter uma ideia de como se conectar a API do whatsapp.
+Este repositório tem como objetivo mostrar o desenvolvimento de um projeto de chatbot em que estou desenvolvendo para atendimento via whatsapp utilizando a API do whatsapp.
+vai ser uma breve apresentação de como está o projeto em que estou desenvolvendo com um simples gerenciador de sistema como fron-end e um exemplo utilizando o chatbot (o repositório desse projeto está privado ) ,porém esse em questão é um exemplo simples para ajudar quem está querendo ter uma ideia de como se utilizar a API do whatsapp.
 
 ## Front-end com dashboard para fazer análise de pedidos diários.
 ![Alt text](<Imagem do WhatsApp de 2023-11-22 à(s) 12.31.35_5a3dfdd0.jpg>)
@@ -33,7 +33,7 @@ https://developers.facebook.com/docs/whatsapp/cloud-api/get-started
 2. Crie a conta empresarial da meta e siga os passos para a criação de um app (entre com sua conta do facebook)! https://business.facebook.com/business/loginpage/?next=%2F&login_options%5B0%5D=FB&cma_account_switch=0&is_workplatform=0&is_targeting_other_login_options=0&is_from_invitation_flow=0
 ![Alt text](image.png)
 
-2. Vá até aplicativo e crie um aplicativo ,caso tenha dificuldade existem alguns vídeos ensinando a criar é simples ,não desista (Tome cuidado para sua conta do facebook não ter nenhuma restrinção se não pode ser dificil de conseguir)!
+2. Vá até aplicativo e crie um aplicativo ,caso tenha dificuldade existem alguns vídeos ensinando a criar é simples ,não desista (Tome cuidado para sua conta do facebook não ter nenhuma restrinção se não pode ser dificil de conseguir seguir os passos)!
 ![Alt text](image-1.png)
 
 3. Procure por esse painel ao entrar no aplicativo e seguir o passo a passo de nomear o  aplicativo e adicionar o número de telefone 
