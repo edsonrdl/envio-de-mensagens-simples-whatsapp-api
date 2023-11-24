@@ -8,6 +8,7 @@ import java.net.http.HttpResponse;
 public class MessageWhatsappApi {
     public static void main(String[] args) {
         String baseUrl = "https://graph.facebook.com/v17.0/";
+        
         // Adicione seu token
         String temporaryAccessToken = "cole aqui o token ";
 

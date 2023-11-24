@@ -45,7 +45,8 @@ https://developers.facebook.com/docs/whatsapp/cloud-api/get-started
 5. Dentro do painel procure por whatsapp e selecione configurações da api!
 ![Alt text](image-5.png)
 
-6. Verifique o token de verificação que é atualizado automaticamente em 24 horas copie e cole no código 
+6. Verifique o token de verificação que é atualizado automaticamente em 24 horas copie e cole no código.
+![Alt text](image-4.png)
 
 7. Adicione o número para teste que a meta vai disponibilizar no etapa 1
 ![Alt text](image-6.png)
